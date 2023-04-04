@@ -1,5 +1,5 @@
 # Snake-Typescript-game
-## https://hugo-kai.github.io/Snake-Typescript-game/
+## <a href="https://hugo-kai.github.io/Snake-Typescript-game/" target="_blank">thesitewizard.com</a>
 ## 5 points for level up, see if you can reach level 10!
 ### Game controle:
 ### left:  <
